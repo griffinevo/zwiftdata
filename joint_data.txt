@@ -1,0 +1,136 @@
+component,make,model,component_type,cat,drops,level,aero,weight,test_partner,tf,az
+BMC Roadmachine,BMC,Roadmachine,Frame,Road,780900,21,2,3,Zwift 32mm Carbon,51:34.5,49:24.0
+BMC SLR01,BMC,SLR01,Frame,Road,376200,19,2,3,Zwift 32mm Carbon,51:33.5,49:07.0
+BMC Timemachine01,BMC,Timemachine01,Frame,TT,781000,24,4,1,Zwift 32mm Carbon,49:58.0,50:12.0
+Bridgestone Anchor RS9s,Bridgestone,Anchor RS9s,Frame,Road,511200,15,2,4,Zwift 32mm Carbon,51:33.0,48:57.5
+Cannondale CAAD12,Cannondale,CAAD12,Frame,Road,184500,2,2,2,Zwift 32mm Carbon,51:35.0,49:30.5
+Cannondale EVO,Cannondale,EVO,Frame,Road,213000,9,2,4,Zwift 32mm Carbon,51:33.0,48:54.5
+Cannondale Super Six Evo,Cannondale,Super Six Evo,Frame,Road,816500,36,3,4,Zwift 32mm Carbon,51:30.0,49:00.0
+Cannondale Synapse,Cannondale,Synapse,Frame,Road,298200,12,2,3,Zwift 32mm Carbon,51:33.5,49:11.0
+Cannondale System Six,Cannondale,System Six,Frame,Road,497000,27,3,3,Zwift 32mm Carbon,51:20.0,49:24.5
+Canyon Aeroad,Canyon,Aeroad,Frame,Road,532500,23,3,3,Zwift 32mm Carbon,51:21.5,49:20.0
+Canyon Aeroad 2021,Canyon,Aeroad 2021,Frame,Road,568000,10,3,3,Zwift 32mm Carbon,51:21.5,49:21.5
+Canyon Grail,Canyon,Grail,Frame,Gravel,355000,23,2,3,Zwift Gravel,53:49.0,51:24.0
+Canyon Inflite,Canyon,Inflite,Frame,Gravel,234300,10,2,3,Zwift Gravel,53:53.0,51:54.0
+Canyon Lux,Canyon,Lux,Frame,MTB,461500,10,1,1,Zwift Mountain,55:43.5,55:40.0
+Canyon Speedmax,Canyon,Speedmax,Frame,TT,710000,21,4,1,Zwift 32mm Carbon,49:58.0,50:12.5
+Canyon Speedmax CF SLX Disc,Canyon,Speedmax CF SLX Disc,Frame,TT,891000,26,4,1,Zwift 32mm Carbon,49:41.0,50:09.0
+Canyon Ultimate,Canyon,Ultimate,Frame,Road,461500,10,2,4,Zwift 32mm Carbon,51:33.0,49:00.0
+Canyon Ultimate CFR,Canyon,Ultimate CFR,Frame,Road,639000,19,2,4,Zwift 32mm Carbon,51:32.0,48:55.0
+Cervelo Aspero,Cervelo,Aspero,Frame,Gravel,426000,13,3,3,Zwift Gravel,53:47.0,51:38.0
+Cervelo P5,Cervelo,P5,Frame,TT,710000,15,4,1,Zwift 32mm Carbon,49:51.0,50:03.5
+Cervelo PX-Series,Cervelo,PX-Series,Frame,TT,1065000,45,4,1,Zwift 32mm Carbon,49:44.5,50:10.0
+Cervelo R5,Cervelo,R5,Frame,Road,461500,24,2,4,Zwift 32mm Carbon,51:33.5,49:01.5
+Cervelo S3D,Cervelo,S3D,Frame,Road,468600,13,3,2,Zwift 32mm Carbon,51:23.5,49:32.5
+Cervelo S5,Cervelo,S5,Frame,Road,603500,25,3,3,Zwift 32mm Carbon,51:19.0,49:10.0
+Cervelo S5 2020,Cervelo,S5 2020,Frame,Road,852000,27,3,3,Zwift 32mm Carbon,51:20.0,49:29.0
+Chapter2 Rere,Chapter2,Rere,Frame,Road,355000,16,3,3,Zwift 32mm Carbon,51:28.0,49:23.0
+Chapter2 Tere,Chapter2,Tere,Frame,Road,390500,6,2,4,Zwift 32mm Carbon,51:33.5,49:01.5
+Chapter2 TOA,Chapter2,TOA,Frame,Road,426000,18,3,2,Zwift 32mm Carbon,51:22.0,49:13.0
+Colnago V3RS,Colnago,V3RS,Frame,Road,695800,18,2,3,Zwift 32mm Carbon,51:34.0,49:11.5
+Cube Aerium,Cube,Aerium,Frame,TT,248500,28,4,1,Zwift 32mm Carbon,49:58.5,50:10.5
+Cube Litening,Cube,Litening,Frame,Road,177500,32,2,3,Zwift 32mm Carbon,51:34.0,49:02.0
+Cube Litening C:68X,Cube,Litening C:68X,Frame,Road,373500,32,2,3,Zwift 32mm Carbon,51:34.0,49:14.5
+Diamondback Andean,Diamondback,Andean,Frame,TT,572900,35,4,1,Zwift 32mm Carbon,49:58.0,50:07.5
+Factor One,Factor,One,Frame,Road,426000,8,3,3,Zwift 32mm Carbon,51:24.5,49:26.0
+Felt AR,Felt,AR,Frame,Road,639000,34,3,3,Zwift 32mm Carbon,51:19.0,49:05.0
+Felt IA,Felt,IA,Frame,TT,1065000,37,4,1,Zwift 32mm Carbon,49:44.0,50:09.5
+Focus Izalco Max,Focus,Izalco Max,Frame,Road,426000,8,3,3,Zwift 32mm Carbon,51:22.5,49:10.0
+Giant Propel Advanced SL Disc,Giant,Propel Advanced SL Disc,Frame,Road,816500,22,3,3,Zwift 32mm Carbon,51:21.5,49:14.5
+Giant TCR Advanced SL,Giant,TCR Advanced SL,Frame,Road,305300,8,2,3,Zwift 32mm Carbon,51:31.5,49:05.5
+Giant TCR Advanced SL Disc,Giant,TCR Advanced SL Disc,Frame,Road,745500,14,3,3,Zwift 32mm Carbon,51:31.0,49:19.0
+Lauf True Grit Bike,Lauf,True Grit Bike,Frame,Gravel,297500,11,2,2,Zwift Gravel,53:57.0,52:22.0
+Liv Langma Advanced SL,Liv,Langma Advanced SL,Frame,Road,745500,22,2,3,Zwift 32mm Carbon,51:34.0,49:05.5
+Liv Langma SL Advanced Disc,Liv,Langma SL Advanced Disc,Frame,Road,745500,22,3,3,Zwift 32mm Carbon,51:32.0,49:24.0
+Moots Vamoots RCS,Moots,Vamoots RCS,Frame,Road,852000,15,2,2,Zwift 32mm Carbon,51:36.5,49:54.0
+Parlee ESX,Parlee,ESX,Frame,Road,603500,16,3,3,Zwift 32mm Carbon,51:31.5,49:19.5
+Parlee RZ7,Parlee,RZ7,Frame,Road,511200,28,3,3,Zwift 32mm Carbon,51:26.0,49:21.0
+Pinarello Bolide,Pinarello,Bolide,Frame,TT,923000,25,4,1,Zwift 32mm Carbon,49:59.0,50:20.0
+Pinarello Bolide TT,Pinarello,Bolide TT,Frame,TT,1065000,42,4,1,Zwift 32mm Carbon,49:59.0,50:21.0
+Pinarello Dogma 65.1,Pinarello,Dogma 65.1,Frame,Road,603500,29,3,2,Zwift 32mm Carbon,51:31.5,49:32.0
+Pinarello Dogma F,Pinarello,Dogma F,Frame,Road,1029500,32,3,4,Zwift 32mm Carbon,51:23.0,49:18.0
+Pinarello Dogma F8,Pinarello,Dogma F8,Frame,Road,0,0,3,3,Zwift 32mm Carbon,51:31.0,49:15.0
+Pinarello Dogma F10,Pinarello,Dogma F10,Frame,Road,710000,39,3,3,Zwift 32mm Carbon,51:26.0,49:12.5
+Pinarello Dogma F12,Pinarello,Dogma F12,Frame,Road,958500,29,3,3,Zwift 32mm Carbon,51:23.0,49:09.0
+Ribble Endurance,Ribble,Endurance,Frame,Road,390500,7,3,3,Zwift 32mm Carbon,51:27.0,49:26.0
+Ridley Helium,Ridley,Helium,Frame,Road,461500,3,2,3,Zwift 32mm Carbon,51:34.0,49:18.0
+Ridley Noah Fast 2019,Ridley,Noah Fast 2019,Frame,Road,426000,9,3,3,Zwift 32mm Carbon,51:23.5,49:24.5
+Scott Addict RC,Scott,Addict RC,Frame,Road,852000,33,3,4,Zwift 32mm Carbon,51:22.5,48:55.0
+Scott Foil,Scott,Foil,Frame,Road,781000,17,3,3,Zwift 32mm Carbon,51:28.0,49:12.5
+Scott Plasma,Scott,Plasma,Frame,TT,852000,17,4,1,Zwift 32mm Carbon,49:58.0,50:03.0
+Scott Spark RC,Scott,Spark RC,Frame,MTB,418900,17,1,1,Zwift Mountain,55:42.0,55:30.0
+Specialized Aethos,Specialized,Aethos,Frame,Road,923000,34,2,4,Zwift 32mm Carbon,51:33.0,48:50.0
+Specialized Allez,Specialized,Allez,Frame,Road,127800,4,2,2,Zwift 32mm Carbon,51:34.5,49:33.5
+Specialized Allez Sprint,Specialized,Allez Sprint,Frame,Road,127800,14,3,3,Zwift 32mm Carbon,51:23.0,49:13.0
+Specialized Amira,Specialized,Amira,Frame,Road,142000,31,2,3,Zwift 32mm Carbon,51:33.5,49:06.0
+Specialized Amira S-Works,Specialized,Amira S-Works,Frame,Road,355000,31,2,4,Zwift 32mm Carbon,51:33.5,49:00.0
+Specialized Epic S-Works,Specialized,Epic S-Works,Frame,MTB,675900,5,1,1,Zwift Mountain,55:42.5,55:35.0
+Specialized Roubaix,Specialized,Roubaix,Frame,Road,461500,5,2,3,Zwift 32mm Carbon,51:34.0,49:15.0
+Specialized Roubaix S-Works,Specialized,Roubaix S-Works,Frame,Road,745500,5,2,3,Zwift 32mm Carbon,51:33.0,49:06.5
+Specialized Ruby,Specialized,Ruby,Frame,Road,461500,5,2,3,Zwift 32mm Carbon,51:34.0,49:15.0
+Specialized Ruby S-Works,Specialized,Ruby S-Works,Frame,Road,745500,5,2,3,Zwift 32mm Carbon,51:33.5,49:06.5
+Specialized Shiv,Specialized,Shiv,Frame,TT,710000,10,4,1,Zwift 32mm Carbon,49:58.0,50:11.0
+Specialized Shiv Disc,Specialized,Shiv Disc,Frame,TT,994000,18,4,1,Zwift 32mm Carbon,49:46.0,50:11.0
+Specialized Shiv S-Works,Specialized,Shiv S-Works,Frame,TT,852000,10,4,1,Zwift 32mm Carbon,49:58.0,50:02.0
+Specialized Tarmac,Specialized,Tarmac,Frame,Road,0,0,2,4,Zwift 32mm Carbon,51:33.5,49:01.0
+Specialized Tarmac Pro,Specialized,Tarmac Pro,Frame,Road,408300,11,2,4,Zwift 32mm Carbon,51:33.0,48:56.0
+Specialized Tarmac SL7,Specialized,Tarmac SL7,Frame,Road,674500,5,3,4,Zwift 32mm Carbon,51:31.5,49:18.0
+Specialized Venge,Specialized,Venge,Frame,Road,461500,18,3,3,Zwift 32mm Carbon,51:20.0,49:23.0
+Specialized Venge S-Works,Specialized,Venge S-Works,Frame,Road,798800,33,3,3,Zwift 32mm Carbon,51:18.5,49:05.0
+Trek Emonda,Trek,Emonda,Frame,Road,0,0,2,4,Zwift 32mm Carbon,51:33.5,48:58.0
+Trek Emonda SL,Trek,Emonda SL,Frame,Road,142000,26,2,3,Zwift 32mm Carbon,51:34.0,49:03.0
+Trek Madone,Trek,Madone,Frame,Road,887500,20,3,3,Zwift 32mm Carbon,51:19.0,49:12.0
+Trek Super Caliber,Trek,Super Caliber,Frame,MTB,532500,20,1,1,Zwift Mountain,55:41.0,55:23.0
+Uranium Nuclear,Uranium,Nuclear,Frame,Road,184500,19,3,3,Zwift 32mm Carbon,51:19.0,49:28.0
+Van Rysel EDR CF,Van Rysel,EDR CF,Frame,Road,326600,12,2,3,Zwift 32mm Carbon,51:34.5,49:20.0
+Ventum One,Ventum,One,Frame,TT,482800,31,4,1,Zwift 32mm Carbon,49:54.5,50:35.0
+Zwift Aero,Zwift,Aero,Frame,Road,319500,6,3,3,Zwift 32mm Carbon,51:25.0,49:28.0
+Zwift Buffalo Fahrrad,Zwift,Buffalo Fahrrad,Frame,Road,9500,40,1,1,Zwift 32mm Carbon,51:46.0,51:05.5
+Zwift Carbon,Zwift,Carbon,Frame,Road,0,0,2,3,Zwift 32mm Carbon,51:36.0,49:47.0
+Zwift Concept Z1,Zwift,Concept Z1,Bike,Road,0,0,,,Zwift Concept Z1,50:28.0,48:58.0
+Zwift Gravel,Zwift,Gravel,Frame,Gravel,163300,0,2,2,Zwift Gravel,53:54.0,51:54.5
+Zwift Mountain,Zwift,Mountain,Frame,MTB,0,0,1,1,Zwift Mountain,55:52.5,55:51.0
+Zwift Safety,Zwift,Safety,Frame,Road,3550000,44,2,2,Zwift 32mm Carbon,51:37.0,50:06.5
+Zwift Steel,Zwift,Steel,Frame,Road,142000,7,1,2,Zwift 32mm Carbon,51:39.5,49:55.5
+Zwift TT,Zwift,TT,Frame,TT,0,0,4,1,Zwift 32mm Carbon,50:16.0,50:27.0
+Bontrager Aeolus5,Bontrager,Aeolus5,Wheel,Road,170400,20,3,3,Zwift Aero,51:06.0,49:24.0
+CADEX 36,CADEX,36,Wheel,Road,257400,26,3,4,Zwift Aero,51:18.5,49:19.5
+CADEX 42,CADEX,42,Wheel,Road,227200,8,3,3,Zwift Aero,51:09.0,49:22.0
+Campagnolo Bora Ultra 35,Campagnolo,Bora Ultra 35,Wheel,Road,248500,33,2,4,Zwift Aero,51:25.5,49:21.5
+Campagnolo Bora Ultra 50,Campagnolo,Bora Ultra 50,Wheel,Road,262700,27,3,3,Zwift Aero,50:59.0,49:21.5
+DT Swiss ARC 1100 DICUT 62,DT Swiss,ARC 1100 DICUT 62,Wheel,Road,184600,6,4,3,Zwift Aero,50:51.0,49:20.5
+DT Swiss ARC 1100 DICUT DISC,DT Swiss,ARC 1100 DICUT DISC,Wheel,Road,1579800,42,4,1,Zwift Aero,50:25.5,49:39.0
+ENVE SES 2.2,ENVE,SES 2.2,Wheel,Road,191700,17,2,4,Zwift Aero,51:25.0,49:21.5
+ENVE SES 3.4,ENVE,SES 3.4,Wheel,Road,191700,4,3,4,Zwift Aero,50:59.0,49:20.0
+ENVE SES 6.7,ENVE,SES 6.7,Wheel,Road,191700,25,3,2,Zwift Aero,50:53.0,49:28.0
+ENVE SES 7.8,ENVE,SES 7.8,Wheel,Road,205900,39,4,2,Zwift Aero,50:40.5,49:24.0
+ENVE SES 8.9,ENVE,SES 8.9,Wheel,Road,205900,31,4,1,Zwift Aero,50:41.5,49:32.5
+FFWD RYOT55,FFWD,RYOT55,Wheel,Road,113700,23,3,3,Zwift Aero,50:58.5,49:20.0
+Giant SLR 0,Giant,SLR 0,Wheel,Road,191800,22,3,4,Zwift Aero,51:02.0,49:20.5
+Lightweight Meilenstein,Lightweight,Meilenstein,Wheel,Road,0,0,3,4,Zwift Aero,51:11.5,49:12.0
+Mavic Comete Pro Carbon SL UST,Mavic,Comete Pro Carbon SL UST,Wheel,Road,142000,23,3,1,Zwift Aero,50:59.5,49:38.5
+Mavic Cosmic CXR60c,Mavic,Cosmic CXR60c,Wheel,Road,142000,16,3,1,Zwift Aero,51:03.5,49:36.5
+Mavic Cosmic Ultimate UST,Mavic,Cosmic Ultimate UST,Wheel,Road,142000,9,3,1,Zwift Aero,51:06.0,49:34.0
+Novatec R4,Novatec,R4,Wheel,Road,95900,24,3,2,Zwift Aero,51:21.5,49:33.0
+Roval Alpinist CLX,Roval,Alpinist CLX,Wheel,Road,135300,32,3,4,Zwift Aero,51:12.0,49:12.0
+Roval CLX64,Roval,CLX64,Wheel,Road,170400,5,3,2,Zwift Aero,50:55.0,49:28.0
+Roval Rapide CLX,Roval,Rapide CLX,Wheel,Road,195300,14,3,3,Zwift Aero,50:55.0,49:23.0
+Shimano C40,Shimano,C40,Wheel,Road,85300,12,3,2,Zwift Aero,51:13.0,49:31.5
+Shimano C50,Shimano,C50,Wheel,Road,88700,28,3,1,Zwift Aero,50:50.5,49:35.5
+Shimano C50,Shimano,C50,Wheel,Road,88700,28,3,1,Zwift Aero,51:11.0,49:35.5
+Shimano C60,Shimano,C60,Wheel,Road,92300,18,3,1,Zwift Aero,51:02.0,49:39.0
+Zipp 202,Zipp,202,Wheel,Road,149200,11,3,4,Zwift Aero,51:20.0,49:22.5
+Zipp 353 NSW,Zipp,353 NSW,Wheel,Road,255600,19,3,3,Zwift Aero,50:56.0,49:20.0
+Zipp 404,Zipp,404,Wheel,Road,149200,15,3,2,Zwift Aero,50:52.0,49:24.0
+Zipp 454,Zipp,454,Wheel,Road,284000,24,4,3,Zwift Aero,50:49.0,49:21.0
+Zipp 808,Zipp,808,Wheel,Road,177600,13,4,1,Zwift Aero,50:43.0,49:30.0
+Zipp 808/Super9,Zipp,808/Super9,Wheel,Road,1075700,35,4,1,Zwift Aero,50:34.0,49:39.0
+Zipp 858,Zipp,858,Wheel,Road,312400,37,4,1,Zwift Aero,50:39.0,49:27.0
+Zipp 858/Super9,Zipp,858/Super9,Wheel,Road,1508800,45,4,1,Zwift Aero,50:32.0,49:38.0
+Zwift 32mm Carbon,Zwift,32mm Carbon,Wheel,Road,0,0,2,2,Zwift Aero,51:25.0,49:28.0
+Zwift 50mm Carbon,Zwift,50mm Carbon,Wheel,Road,120700,7,3,2,Zwift Aero,51:12.5,49:29.0
+Zwift Buffalo Fahrrad,Zwift,Buffalo Fahrrad,Wheel,Road,3200,40,1,1,Zwift Aero,51:30.0,49:35.0
+Zwift Classic,Zwift,Classic,Wheel,Road,35600,2,1,1,Zwift Aero,51:31.0,49:36.0
+Zwift Gravel,Zwift,Gravel,Wheel,Gravel,0,0,3,1,Zwift Gravel,53:54.0,51:54.5
+Zwift Mountain,Zwift,Mountain,Wheel,MTB,0,0,1,1,Zwift Mountain,55:52.5,55:51.0
+Zwift Safety,Zwift,Safety,Wheel,Road,710000,44,2,2,Zwift Aero,51:25.5,49:27.5
