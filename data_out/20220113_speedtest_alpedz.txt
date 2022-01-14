@@ -1,0 +1,137 @@
+component	type	test_partner	az
+BMC Roadmachine	Frame	Zwift 32mm Carbon	49:24.0
+BMC SLR01	Frame	Zwift 32mm Carbon	49:07.0
+BMC Timemachine01	Frame	Zwift 32mm Carbon	50:12.0
+Bridgestone Anchor RS9s	Frame	Zwift 32mm Carbon	48:57.5
+Cannondale CAAD12	Frame	Zwift 32mm Carbon	49:30.5
+Cannondale EVO	Frame	Zwift 32mm Carbon	48:54.5
+Cannondale Super Six Evo	Frame	Zwift 32mm Carbon	49:00.0
+Cannondale Synapse	Frame	Zwift 32mm Carbon	49:11.0
+Cannondale System Six	Frame	Zwift 32mm Carbon	49:24.5
+Canyon Aeroad	Frame	Zwift 32mm Carbon	49:20.0
+Canyon Aeroad 2021	Frame	Zwift 32mm Carbon	49:21.5
+Canyon Grail	Frame	Zwift Gravel	51:24.0
+Canyon Inflite	Frame	Zwift Gravel	51:54.0
+Canyon Lux	Frame	Zwift Mountain	55:40.0
+Canyon Speedmax	Frame	Zwift 32mm Carbon	50:12.5
+Canyon Speedmax CF SLX Disc	Frame	Zwift 32mm Carbon	50:09.0
+Canyon Ultimate	Frame	Zwift 32mm Carbon	49:00.0
+Canyon Ultimate CFR	Frame	Zwift 32mm Carbon	48:55.0
+Cervelo Aspero	Frame	Zwift Gravel	51:38.0
+Cervelo P5	Frame	Zwift 32mm Carbon	50:03.5
+Cervelo PX-Series	Frame	Zwift 32mm Carbon	50:10.0
+Cervelo R5	Frame	Zwift 32mm Carbon	49:01.5
+Cervelo S3D	Frame	Zwift 32mm Carbon	49:32.5
+Cervelo S5	Frame	Zwift 32mm Carbon	49:10.0
+Cervelo S5 2020	Frame	Zwift 32mm Carbon	49:29.0
+Chapter2 Rere	Frame	Zwift 32mm Carbon	49:23.0
+Chapter2 TOA	Frame	Zwift 32mm Carbon	49:13.0
+Chapter2 Tere	Frame	Zwift 32mm Carbon	49:01.5
+Colnago V3RS	Frame	Zwift 32mm Carbon	49:11.5
+Cube Aerium	Frame	Zwift 32mm Carbon	50:10.5
+Cube Litening	Frame	Zwift 32mm Carbon	49:02.0
+Cube Litening C:68X	Frame	Zwift 32mm Carbon	49:14.5
+Diamondback Andean	Frame	Zwift 32mm Carbon	50:07.5
+Factor One	Frame	Zwift 32mm Carbon	49:26.0
+Felt AR	Frame	Zwift 32mm Carbon	49:05.0
+Felt IA	Frame	Zwift 32mm Carbon	50:09.5
+Focus Izalco Max	Frame	Zwift 32mm Carbon	49:10.0
+Giant Propel Advanced SL Disc	Frame	Zwift 32mm Carbon	49:14.5
+Giant TCR Advanced SL	Frame	Zwift 32mm Carbon	49:05.5
+Giant TCR Advanced SL Disc	Frame	Zwift 32mm Carbon	49:19.0
+Lauf True Grit Bike	Frame	Zwift Gravel	52:22.0
+Liv Langma Advanced SL	Frame	Zwift 32mm Carbon	49:05.5
+Liv Langma SL Advanced Disc	Frame	Zwift 32mm Carbon	49:24.0
+Moots Vamoots RCS	Frame	Zwift 32mm Carbon	49:54.0
+Parlee ESX	Frame	Zwift 32mm Carbon	49:19.5
+Parlee RZ7	Frame	Zwift 32mm Carbon	49:21.0
+Pinarello Bolide	Frame	Zwift 32mm Carbon	50:20.0
+Pinarello Bolide TT	Frame	Zwift 32mm Carbon	50:21.0
+Pinarello Dogma 65.1	Frame	Zwift 32mm Carbon	49:32.0
+Pinarello Dogma F	Frame	Zwift 32mm Carbon	49:18.0
+Pinarello Dogma F10	Frame	Zwift 32mm Carbon	49:12.5
+Pinarello Dogma F12	Frame	Zwift 32mm Carbon	49:09.0
+Pinarello Dogma F8	Frame	Zwift 32mm Carbon	49:15.0
+Ribble Endurance	Frame	Zwift 32mm Carbon	49:26.0
+Ridley Helium	Frame	Zwift 32mm Carbon	49:18.0
+Ridley Noah Fast 2019	Frame	Zwift 32mm Carbon	49:24.5
+Scott Addict RC	Frame	Zwift 32mm Carbon	48:55.0
+Scott Foil	Frame	Zwift 32mm Carbon	49:12.5
+Scott Plasma	Frame	Zwift 32mm Carbon	50:03.0
+Scott Spark RC	Frame	Zwift Mountain	55:30.0
+Specialized Aethos	Frame	Zwift 32mm Carbon	48:50.0
+Specialized Allez	Frame	Zwift 32mm Carbon	49:33.5
+Specialized Allez Sprint	Frame	Zwift 32mm Carbon	49:13.0
+Specialized Amira	Frame	Zwift 32mm Carbon	49:06.0
+Specialized Amira S-Works	Frame	Zwift 32mm Carbon	49:00.0
+Specialized Epic S-Works	Frame	Zwift Mountain	55:35.0
+Specialized Roubaix	Frame	Zwift 32mm Carbon	49:15.0
+Specialized Roubaix S-Works	Frame	Zwift 32mm Carbon	49:06.5
+Specialized Ruby	Frame	Zwift 32mm Carbon	49:15.0
+Specialized Ruby S-Works	Frame	Zwift 32mm Carbon	49:06.5
+Specialized Shiv	Frame	Zwift 32mm Carbon	50:11.0
+Specialized Shiv Disc	Frame	Zwift 32mm Carbon	50:11.0
+Specialized Shiv S-Works	Frame	Zwift 32mm Carbon	50:02.0
+Specialized Tarmac	Frame	Zwift 32mm Carbon	49:01.0
+Specialized Tarmac Pro	Frame	Zwift 32mm Carbon	48:56.0
+Specialized Tarmac SL7	Frame	Zwift 32mm Carbon	49:18.0
+Specialized Venge	Frame	Zwift 32mm Carbon	49:23.0
+Specialized Venge S-Works	Frame	Zwift 32mm Carbon	49:05.0
+Trek Emonda	Frame	Zwift 32mm Carbon	48:58.0
+Trek Emonda SL	Frame	Zwift 32mm Carbon	49:03.0
+Trek Madone	Frame	Zwift 32mm Carbon	49:12.0
+Trek Super Caliber	Frame	Zwift Mountain	55:23.0
+Zwift Concept Z1	Frame	Zwift Concept Z1	48:58.0
+Uranium Nuclear	Frame	Zwift 32mm Carbon	49:28.0
+Van Rysel EDR CF	Frame	Zwift 32mm Carbon	49:20.0
+Ventum One	Frame	Zwift 32mm Carbon	50:35.0
+Zwift Aero	Frame	Zwift 32mm Carbon	49:28.0
+Zwift Buffalo Fahrrad	Frame	Zwift 32mm Carbon	51:05.5
+Zwift Carbon	Frame	Zwift 32mm Carbon	49:47.0
+Zwift Gravel	Frame	Zwift Gravel	51:54.5
+Zwift Mountain	Frame	Zwift Mountain	55:51.0
+Zwift Safety	Frame	Zwift 32mm Carbon	50:06.5
+Zwift Steel	Frame	Zwift 32mm Carbon	49:55.5
+Zwift TT	Frame	Zwift 32mm Carbon	50:27.0
+Zwift 32mm Carbon	Wheel	Zwift Aero	49:28.0
+Zwift 50mm Carbon	Wheel	Zwift Aero	49:29.0
+Bontrager Aeolus5	Wheel	Zwift Aero	49:24.0
+CADEX 36	Wheel	Zwift Aero	49:19.5
+CADEX 42	Wheel	Zwift Aero	49:22.0
+CADEX 65	Wheel	Zwift Aero	49:21.0
+Campagnolo Bora Ultra 50	Wheel	Zwift Aero	49:21.5
+Campagnolo Bora Ultra 35	Wheel	Zwift Aero	49:21.5
+DT Swiss ARC 1100 DICUT 62	Wheel	Zwift Aero	49:20.5
+DT Swiss ARC 1100 DICUT DISC	Wheel	Zwift Aero	49:39.0
+ENVE SES 2.2	Wheel	Zwift Aero	49:21.5
+ENVE SES 3.4	Wheel	Zwift Aero	49:20.0
+ENVE SES 6.7	Wheel	Zwift Aero	49:28.0
+ENVE SES 7.8	Wheel	Zwift Aero	49:24.0
+ENVE SES 8.9	Wheel	Zwift Aero	49:32.5
+FFWD RYOT55	Wheel	Zwift Aero	49:20.0
+Giant SLR 0	Wheel	Zwift Aero	49:20.5
+Lightweight Meilenstein	Wheel	Zwift Aero	49:12.0
+Mavic Comete Pro Carbon SL UST	Wheel	Zwift Aero	49:38.5
+Mavic Cosmic CXR60c	Wheel	Zwift Aero	49:36.5
+Mavic Cosmic Ultimate UST	Wheel	Zwift Aero	49:34.0
+Novatec R4	Wheel	Zwift Aero	49:33.0
+Roval Alpinist CLX	Wheel	Zwift Aero	49:12.0
+Roval CLX64	Wheel	Zwift Aero	49:28.0
+Roval Rapide CLX	Wheel	Zwift Aero	49:23.0
+Shimano C40	Wheel	Zwift Aero	49:31.5
+Shimano C50	Wheel	Zwift Aero	49:35.5
+Shimano C50	Wheel	Zwift Aero	49:35.5
+Shimano C60	Wheel	Zwift Aero	49:39.0
+Zipp 202	Wheel	Zwift Aero	49:22.5
+Zipp 353 NSW	Wheel	Zwift Aero	49:20.0
+Zipp 404	Wheel	Zwift Aero	49:24.0
+Zipp 454	Wheel	Zwift Aero	49:21.0
+Zipp 808	Wheel	Zwift Aero	49:30.0
+Zipp 808/Super9	Wheel	Zwift Aero	49:39.0
+Zipp 858	Wheel	Zwift Aero	49:27.0
+Zipp 858/Super9	Wheel	Zwift Aero	49:38.0
+Zwift Buffalo Fahrrad	Wheel	Zwift Aero	49:35.0
+Zwift Classic	Wheel	Zwift Aero	49:36.0
+Zwift Gravel	Wheel	Zwift Gravel	51:54.5
+Zwift Mountain	Wheel	Zwift Mountain	55:51.0
+Zwift Safety	Wheel	Zwift Aero	49:27.5

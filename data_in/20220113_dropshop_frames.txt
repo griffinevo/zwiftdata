@@ -1,0 +1,95 @@
+make	model	drops	level	aero	weight	type
+BMC	Roadmachine	780,900	21	2	3	Standard
+BMC	SLR01	376,200	19	2	3	Standard
+BMC	Timemachine01	781,000	24	4	1	TT
+Bridgestone	Anchor RS9s	511,200	15	2	4	Standard
+Cannondale	Caad12	184,500	2	2	2	Standard
+Cannondale	EVO	213,000	9	2	4	Standard
+Cannondale	SuperSix EVO	816,500	36	3	4	Standard
+Cannondale	Synapse	298,200	12	2	3	Standard
+Cannondale	System Six	497,000	27	3	3	Standard
+Canyon	Aeroad	532,500	23	3	3	Standard
+Canyon	Aeroad 2021	568,000	10	3	3	Standard
+Canyon	Grail	355,000	23	2	3	Gravel
+Canyon	Inflite	234,300	10	2	3	Gravel
+Canyon	Lux	461,500	10	1	1	MTB
+Canyon	Speedmax	710,000	21	4	1	TT
+Canyon 	Speedmax CF SLX Disc	891,000	26	4	1	TT
+Canyon 	Ultimate	461,500	10	2	4	Standard
+Canyon 	Ultimate CFR	639,000	19	2	4	Standard
+Cervelo	Aspero	426,000	13	3	3	Gravel
+Cervelo	P5	710,000	15	4	1	TT
+Cervelo	PX-Series	1,065,000	45	4	1	TT
+Cervelo	R5	461,500	24	2	4	Standard
+Cervelo	S3D	468,600	13	3	2	Standard
+Cervelo	S5	603,500	25	3	3	Standard
+Cervelo	S5 2020	852,000	27	3	3	Standard
+Chapter2	Rere	355,000	16	3	3	Standard
+Chapter2	Tere	390,500	6	2	4	Standard
+Chapter2	Toa	426,000	18	3	2	Standard
+Colnago	V3RS	695,800	18	2	3	Standard
+Cube	Aerium	248,500	28	4	1	TT
+Cube	Litening	177,500	32	2	3	Standard
+Cube	Litening C:68X	373,500	32	2	3	Standard
+Diamondback	Andean	572,900	35	4	1	TT
+Factor	One	426,000	8	3	3	Standard
+Felt	AR	639,000	34	3	3	Standard
+Felt 	IA	1,065,000	37	4	1	TT
+Focus	Izalco Max 2020	426,000	8	3	3	Standard
+Giant	Propel Advanced SL Disc	816,500	22	3	3	Standard
+Giant	TCR Advanced SL	305,300	8	2	3	Standard
+Giant	TCR Advanced SL Disc	745,500	14	3	3	Standard
+Lauf	True Grit	297,500	11	2	2	Gravel
+Liv	Langma Advanced SL	745,500	22	2	3	Standard
+Liv	Langma SL Advanced Disc	745,500	22	3	3	Standard
+Moots	Vamoots	852,000	15	2	2	Standard
+Parlee	ESX	603,500	16	3	3	Standard
+Parlee	RZ7	511,200	28	3	3	Standard
+Pinarello	Bolide	923,000	25	4	1	TT
+Pinarello	Bolide TT	1,065,000	42	4	1	TT
+Pinarello	Dogma 65.1	603,500	29	3	2	Standard
+Pinarello 	Dogma F	1,029,500	32	3	4	Standard
+Pinarello	Dogma F8 (2)	0	0	3	3	Standard
+Pinarello	Dogma F10	710,000	39	3	3	Standard
+Pinarello	Dogma F12	958,500	29	3	3	Standard
+Ribble	Endurance	390,500	7	3	3	Standard
+Ridley	Helium	461,500	3	2	3	Standard
+Ridley	Noah Fast 2019	426,000	9	3	3	Standard
+Scott	Addict RC	852,000	33	3	4	Standard
+Scott	Foil	781,000	17	3	3	Standard
+Scott	Plasma	852,000	17	4	1	TT
+Scott 	Spark RC	418,900	17	1	1	MTB
+Specialized	Aethos	923,000	34	2	4	Standard
+Specialized	Allez	127,800	4	2	2	Standard
+Specialized	Allez Sprint	127,800	14	3	3	Standard
+Specialized	Amira	142,000	31	2	3	Standard
+Specialized	Amira S-Works	355,000	31	2	4	Standard
+Specialized	Epic S-Works	675,900	5	1	1	MTB
+Specialized	Roubaix	461,500	5	2	3	Standard
+Specialized	Roubaix S-Works	745,500	5	2	3	Standard
+Specialized	Ruby	461,500	5	2	3	Standard
+Specialized	Ruby S-Works	745,500	5	2	3	Standard
+Specialized	Shiv	710,000	10	4	1	TT
+Specialized	Shiv Disc	994,000	18	4	1	TT
+Specialized	Shiv S-Works	852,000	10	4	1	TT
+Specialized	Tarmac (1)	0	0	2	4	Standard
+Specialized	Tarmac Pro	408,300	11	2	4	Standard
+Specialized	Tarmac SL7	674,500	5	3	4	Standard
+Specialized	Venge	461,500	18	3	3	Standard
+Specialized	Venge S-Works	798,800	33	3	3	Standard
+Trek	Emonda (3)	0	0	2	4	Standard
+Trek	Emonda SL	142,000	26	2	3	Standard
+Trek	Madone	887,500	20	3	3	Standard
+Trek	Super Caliber	532,500	20	1	1	MTB
+Uranium	Nuclear	184,500	19	3	3	Standard
+Van Rysel	EDR CF	326,600	12	2	3	Standard
+Ventum	One	482,800	31	4	1	TT
+Zwift	Aero	319,500	6	3	3	Standard
+Zwift	Buffalo Fahrrad	9,500	40	1	1	Standard
+Zwift	Carbon (4)	0	0	2	3	Standard
+Zwift	Concept 1 (Tron) (5)	0	""	""	""	Standard
+Zwift	Gravel	163,300	0	2	2	Gravel
+Zwift	Mountain (4)	0	0	1	1	MTB
+Zwift	Safety	3,550,000	44	2	2	Standard
+Zwift	Steel	142,000	7	1	2	Standard
+Zwift	TT (4)	0	0	4	1	TT

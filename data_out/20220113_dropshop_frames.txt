@@ -1,0 +1,95 @@
+make	model	cat	drops	level	aero	weight
+BMC	Roadmachine	Road	  780,900	21	2	3
+BMC	SLR01	Road	  376,200	19	2	3
+BMC	Timemachine01	TT	  781,000	24	4	1
+Bridgestone	Anchor RS9s	Road	  511,200	15	2	4
+Cannondale	CAAD12	Road	  184,500	2	2	2
+Cannondale	EVO	Road	  213,000	9	2	4
+Cannondale	Super Six Evo	Road	  816,500	36	3	4
+Cannondale	Synapse	Road	  298,200	12	2	3
+Cannondale	System Six	Road	  497,000	27	3	3
+Canyon	Aeroad	Road	  532,500	23	3	3
+Canyon	Aeroad 2021	Road	  568,000	10	3	3
+Canyon	Grail	Gravel	  355,000	23	2	3
+Canyon	Inflite	Gravel	  234,300	10	2	3
+Canyon	Lux	MTB	  461,500	10	1	1
+Canyon	Speedmax	TT	  710,000	21	4	1
+Canyon	Speedmax CF SLX Disc	TT	  891,000	26	4	1
+Canyon	Ultimate	Road	  461,500	10	2	4
+Canyon	Ultimate CFR	Road	  639,000	19	2	4
+Cervelo	Aspero	Gravel	  426,000	13	3	3
+Cervelo	P5	TT	  710,000	15	4	1
+Cervelo	PX-Series	TT	1,065,000	45	4	1
+Cervelo	R5	Road	  461,500	24	2	4
+Cervelo	S3D	Road	  468,600	13	3	2
+Cervelo	S5	Road	  603,500	25	3	3
+Cervelo	S5 2020	Road	  852,000	27	3	3
+Chapter2	Rere	Road	  355,000	16	3	3
+Chapter2	Tere	Road	  390,500	6	2	4
+Chapter2	TOA	Road	  426,000	18	3	2
+Colnago	V3RS	Road	  695,800	18	2	3
+Cube	Aerium	TT	  248,500	28	4	1
+Cube	Litening	Road	  177,500	32	2	3
+Cube	Litening C:68X	Road	  373,500	32	2	3
+Diamondback	Andean	TT	  572,900	35	4	1
+Factor	One	Road	  426,000	8	3	3
+Felt	AR	Road	  639,000	34	3	3
+Felt	IA	TT	1,065,000	37	4	1
+Focus	Izalco Max	Road	  426,000	8	3	3
+Giant	Propel Advanced SL Disc	Road	  816,500	22	3	3
+Giant	TCR Advanced SL	Road	  305,300	8	2	3
+Giant	TCR Advanced SL Disc	Road	  745,500	14	3	3
+Lauf	True Grit Bike	Gravel	  297,500	11	2	2
+Liv	Langma Advanced SL	Road	  745,500	22	2	3
+Liv	Langma SL Advanced Disc	Road	  745,500	22	3	3
+Moots	Vamoots RCS	Road	  852,000	15	2	2
+Parlee	ESX	Road	  603,500	16	3	3
+Parlee	RZ7	Road	  511,200	28	3	3
+Pinarello	Bolide	TT	  923,000	25	4	1
+Pinarello	Bolide TT	TT	1,065,000	42	4	1
+Pinarello	Dogma 65.1	Road	  603,500	29	3	2
+Pinarello	Dogma F	Road	1,029,500	32	3	4
+Pinarello	Dogma F8	Road	        0	0	3	3
+Pinarello	Dogma F10	Road	  710,000	39	3	3
+Pinarello	Dogma F12	Road	  958,500	29	3	3
+Ribble	Endurance	Road	  390,500	7	3	3
+Ridley	Helium	Road	  461,500	3	2	3
+Ridley	Noah Fast 2019	Road	  426,000	9	3	3
+Scott	Addict RC	Road	  852,000	33	3	4
+Scott	Foil	Road	  781,000	17	3	3
+Scott	Plasma	TT	  852,000	17	4	1
+Scott	Spark RC	MTB	  418,900	17	1	1
+Specialized	Aethos	Road	  923,000	34	2	4
+Specialized	Allez	Road	  127,800	4	2	2
+Specialized	Allez Sprint	Road	  127,800	14	3	3
+Specialized	Amira	Road	  142,000	31	2	3
+Specialized	Amira S-Works	Road	  355,000	31	2	4
+Specialized	Epic S-Works	MTB	  675,900	5	1	1
+Specialized	Roubaix	Road	  461,500	5	2	3
+Specialized	Roubaix S-Works	Road	  745,500	5	2	3
+Specialized	Ruby	Road	  461,500	5	2	3
+Specialized	Ruby S-Works	Road	  745,500	5	2	3
+Specialized	Shiv	TT	  710,000	10	4	1
+Specialized	Shiv Disc	TT	  994,000	18	4	1
+Specialized	Shiv S-Works	TT	  852,000	10	4	1
+Specialized	Tarmac	Road	        0	0	2	4
+Specialized	Tarmac Pro	Road	  408,300	11	2	4
+Specialized	Tarmac SL7	Road	  674,500	5	3	4
+Specialized	Venge	Road	  461,500	18	3	3
+Specialized	Venge S-Works	Road	  798,800	33	3	3
+Trek	Emonda	Road	        0	0	2	4
+Trek	Emonda SL	Road	  142,000	26	2	3
+Trek	Madone	Road	  887,500	20	3	3
+Trek	Super Caliber	MTB	  532,500	20	1	1
+Uranium	Nuclear	Road	  184,500	19	3	3
+Van Rysel	EDR CF	Road	  326,600	12	2	3
+Ventum	One	TT	  482,800	31	4	1
+Zwift	Aero	Road	  319,500	6	3	3
+Zwift	Buffalo Fahrrad	Road	    9,500	40	1	1
+Zwift	Carbon	Road	        0	0	2	3
+Zwift	Concept Z1	Road	        0	0		
+Zwift	Gravel	Gravel	  163,300	0	2	2
+Zwift	Mountain	MTB	        0	0	1	1
+Zwift	Safety	Road	3,550,000	44	2	2
+Zwift	Steel	Road	  142,000	7	1	2
+Zwift	TT	TT	        0	0	4	1

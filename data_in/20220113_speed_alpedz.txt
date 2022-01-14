@@ -1,0 +1,1125 @@
+Weight	Watts	w/kg	Height	Bike	Type	Wheels	Old Time	Gap	New Time	Gap	Old vs New	Notes												
+75	300	4	183	Specialized Aethos	Standard	32mm Carbon	0,033900463	#REF!	48:50.0	#VALUE!	#VALUE!													
+75	300	4	183	Cannondale EVO	Standard	32mm Carbon	0,03400463	#REF!	48:54.5	#VALUE!	#VALUE!													
+75	300	4	183	Canyon Ultimate CFR	Standard	32mm Carbon			48:55.0	#VALUE!	#VALUE!													
+75	300	4	183	Scott Addict RC	Standard	32mm Carbon			48:55.0	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Tarmac Pro	Standard	32mm Carbon	0,033993056	#REF!	48:56.0	#VALUE!	#VALUE!													
+75	300	4	183	Bridgestone SR9s	Standard	32mm Carbon	0,03400463	#REF!	48:57.5	#VALUE!	#VALUE!													
+75	300	4	183	Trek Emonda	Standard	32mm Carbon	0,034016204	#REF!	48:58.0	#VALUE!	#VALUE!													
+75	300	4	183	Tron (Concept Z1)	Standard	Tron	0,034016204	#REF!	48:58.0	#VALUE!	#VALUE!													
+75	300	4	183	Cannondale SuperSix EVO	Standard	32mm Carbon	0,034050926	#REF!	49:00.0	#VALUE!	#VALUE!													
+75	300	4	183	Canyon Ultimate	Standard	32mm Carbon	0,034050926	#REF!	49:00.0	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Amira S-Works	Standard	32mm Carbon	0,034039352	#REF!	49:00.0	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Tarmac	Standard	32mm Carbon	0,0340625	#REF!	49:01.0	#VALUE!	#VALUE!													
+75	300	4	183	Cervelo R5	Standard	32mm Carbon	0,0340625	#REF!	49:01.5	#VALUE!	#VALUE!													
+75	300	4	183	Chapter2 Tere	Standard	32mm Carbon	0,0340625	#REF!	49:01.5	#VALUE!	#VALUE!													
+75	300	4	183	Cube Litening	Standard	32mm Carbon	0,034085648	#REF!	49:02.0	#VALUE!	#VALUE!													
+75	300	4	183	Trek Emonda SL	Standard	32mm Carbon	0,034074074	#REF!	49:03.0	#VALUE!	#VALUE!													
+75	300	4	183	Felt AR	Standard	32mm Carbon	0,034155093	#REF!	49:05.0	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Venge S-Works	Standard	32mm Carbon	0,03412037	#REF!	49:05.0	#VALUE!	#VALUE!													
+75	300	4	183	Giant TCR Advanced SL	Standard	32mm Carbon	0,034085648	#REF!	49:05.5	#VALUE!	#VALUE!													
+75	300	4	183	Liv Langma Advanced SL	Standard	32mm Carbon	0,034108796	#REF!	49:05.5	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Amira	Standard	32mm Carbon	0,034108796	#REF!	49:06.0	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Roubaix S-Works	Standard	32mm Carbon	0,03412037	#REF!	49:06.5	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Ruby S-Works	Standard	32mm Carbon	0,03412037	#REF!	49:06.5	#VALUE!	#VALUE!													
+75	300	4	183	BMC SLR01	Standard	32mm Carbon	0,034131944	#REF!	49:07.0	#VALUE!	#VALUE!													
+75	300	4	183	Pinarello Dogma F12	Standard	32mm Carbon	0,034143519	#REF!	49:09.0	#VALUE!	#VALUE!													
+75	300	4	183	Cervelo S5	Standard	32mm Carbon	0,034155093	#REF!	49:10.0	#VALUE!	#VALUE!													
+75	300	4	183	Focus Izalco Max 2020	Standard	32mm Carbon	0,034155093	#REF!	49:10.0	#VALUE!	#VALUE!													
+75	300	4	183	Cannondale Synapse	Standard	32mm Carbon	0,034166667	#REF!	49:11.0	#VALUE!	#VALUE!													
+75	300	4	183	Colnago V3RS	Standard	32mm Carbon	0,034155093	#REF!	49:11.5	#VALUE!	#VALUE!													
+75	300	4	183	Trek Madone	Standard	32mm Carbon	0,034201389	#REF!	49:12.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Lightweight Meilenstein	0,034201389	#REF!	49:12.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Roval Alpinist CLX	0,034178241	#REF!	49:12.0	#VALUE!	#VALUE!													
+75	300	4	183	Pinarello Dogma F10	Standard	32mm Carbon	0,034178241	#REF!	49:12.5	#VALUE!	#VALUE!													
+75	300	4	183	Scott Foil	Standard	32mm Carbon	0,034189815	#REF!	49:12.5	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Allez Sprint	Standard	32mm Carbon	0,034201389	#REF!	49:13.0	#VALUE!	#VALUE!													
+75	300	4	183	Chapter2 TOA	Standard	32mm Carbon	0,034768519	#REF!	49:13.0	#VALUE!	#VALUE!													
+75	300	4	183	Giant Propel Advanced SL Disc	Standard	32mm Carbon	0,034189815	#REF!	49:14.5	#VALUE!	#VALUE!													
+75	300	4	183	Cube Litening C:68X	Standard	32mm Carbon	0,034768519	#REF!	49:14.5	#VALUE!	#VALUE!													
+75	300	4	183	Pinarello Dogma F8	Standard	32mm Carbon	0,034212963	#REF!	49:15.0	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Roubaix	Standard	32mm Carbon	0,034224537	#REF!	49:15.0	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Ruby	Standard	32mm Carbon	0,034236111	#REF!	49:15.0	#VALUE!	#VALUE!													
+75	300	4	183	Pinarello Dogma F	Standard	32mm Carbon	0,034016204	#REF!	49:18.0	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Tarmac SL7	Standard	32mm Carbon	0,034039352	#REF!	49:18.0	#VALUE!	#VALUE!													
+75	300	4	183	Ridley Helium	Standard	32mm Carbon	0,034270833	#REF!	49:18.0	#VALUE!	#VALUE!													
+75	300	4	183	Giant TCR Advanced SL Disc	Standard	32mm Carbon	0,034247685	#REF!	49:19.0	#VALUE!	#VALUE!													
+75	300	4	183	Parlee ESX	Standard	32mm Carbon	0,034282407	#REF!	49:19.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	CADEX 36	0,03880787	#REF!	49:19.5	#VALUE!	#VALUE!													
+75	300	4	183	Canyon Aeroad	Standard	32mm Carbon	0,034293981	#REF!	49:20.0	#VALUE!	#VALUE!													
+75	300	4	183	Van Rysel EDR CF	Standard	32mm Carbon			49:20.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	ENVE SES 3.4	0,034259259	#REF!	49:20.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Zipp 353 NSW	0,034259259	#REF!	49:20.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	FFWD RYOT55	0,034768519	#REF!	49:20.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Giant SLR 0	0,034270833	#REF!	49:20.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	DT Swiss ARC 62 	0,034282407	#REF!	49:20.5	#VALUE!	#VALUE!													
+75	300	4	183	Parlee RZ7	Standard	32mm Carbon	0,034282407	#REF!	49:21.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	CADEX 65			49:21.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Zipp 454	0,034293981	#REF!	49:21.0	#VALUE!	#VALUE!													
+75	300	4	183	Canyon Aeroad 2021	Standard	32mm Carbon	0,034074074	#REF!	49:21.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Campagnolo Bora Ultra 50	0,034293981	#REF!	49:21.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Campagnolo Boral Ultra 35	0,034282407	#REF!	49:21.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	ENVE SES 2.2	0,034293981	#REF!	49:21.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	CADEX 42			49:22.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Zipp 202	0,034305556	#REF!	49:22.5	#VALUE!	#VALUE!													
+75	300	4	183	Chapter2 Rere	Standard	32mm Carbon	0,03431713	#REF!	49:23.0	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Venge	Standard	32mm Carbon	0,03431713	#REF!	49:23.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Roval Rapide CLX	0,034305556	#REF!	49:23.0	#VALUE!	#VALUE!													
+75	300	4	183	BMC Roadmachine	Standard	32mm Carbon			49:24.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Bontrager Aeolus5	0,034328704	#REF!	49:24.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	ENVE SES 7.8	0,034328704	#REF!	49:24.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Zipp 404	0,034293981	#REF!	49:24.0	#VALUE!	#VALUE!													
+75	300	4	183	Liv Langma SL Advanced Disc	Standard	32mm Carbon	0,034375	#REF!	49:24.0	#VALUE!	#VALUE!													
+75	300	4	183	Cannondale SystemSix	Standard	32mm Carbon	0,034328704	#REF!	49:24.5	#VALUE!	#VALUE!													
+75	300	4	183	Ridley Noah Fast Disc	Standard	32mm Carbon	0,034328704	#REF!	49:24.5	#VALUE!	#VALUE!													
+75	300	4	183	Factor One	Standard	32mm Carbon	0,034340278	#REF!	49:26.0	#VALUE!	#VALUE!													
+75	300	4	183	Ribble Endurance	Standard	32mm Carbon	0,034340278	#REF!	49:26.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Zipp 858	0,034351852	#REF!	49:27.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Zwift Safety	0,034375	#REF!	49:27.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	32mm Carbon	0,034386574	#REF!	49:28.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	ENVE SES 6.7	0,034375	#REF!	49:28.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Roval CLX 64	0,034363426	#REF!	49:28.0	#VALUE!	#VALUE!													
+75	300	4	183	Uranium Nuclear	Standard	32mm Carbon	0,034768519	#REF!	49:28.0	#VALUE!	#VALUE!													
+75	300	4	183	Cervelo S5 2020	Standard	32mm Carbon			49:29.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	50mm Carbon	0,034386574	#REF!	49:29.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Zipp 808	0,034386574	#REF!	49:30.0	#VALUE!	#VALUE!													
+75	300	4	183	Cannondale CAAD12	Standard	32mm Carbon	0,034409722	#REF!	49:30.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Shimano C40	0,034409722	#REF!	49:31.5	#VALUE!	#VALUE!													
+75	300	4	183	Pinarello Dogma 65.1	Standard	32mm Carbon	0,034409722	#REF!	49:32.0	#VALUE!	#VALUE!													
+75	300	4	183	Cervelo S3D	Standard	32mm Carbon	0,034409722	#REF!	49:32.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	ENVE SES 8.9	0,034421296	#REF!	49:32.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Novatec R4	0,034768519	#REF!	49:33.0	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Allez 	Standard	32mm Carbon	0,03443287	#REF!	49:33.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Mavic Cosmic Ultimate UST	0,03443287	#REF!	49:34.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Zwift Buffalo Fahrrad	0,034456019	#REF!	49:35.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Shimano C50			49:35.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Zwift Classic	0,034467593	#REF!	49:36.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Mavic Cosmic CXR60c	0,034467593	#REF!	49:36.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Zipp 858/Super9	0,034490741	#REF!	49:38.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Mavic Comete Pro Carbon SL UST	0,034490741	#REF!	49:38.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	DT Swiss ARC 62 Dicut Disc	0,034282407	#REF!	49:39.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Shimano C60	0,034502315	#REF!	49:39.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Zipp 808/Super9	0,034490741	#REF!	49:39.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Carbon	Standard	32mm Carbon	0,034583333	#REF!	49:47.0	#VALUE!	#VALUE!													
+75	300	4	183	Moots Vamoots	Standard	32mm Carbon	0,034375	#REF!	49:54.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Steel	Standard	32mm Carbon	0,0346875	#REF!	49:55.5	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Shiv S-Works	TT	32mm Carbon	0,034756944	#REF!	50:02.0	#VALUE!	#VALUE!													
+75	300	4	183	Scott Plasma	TT	32mm Carbon	0,034768519	#REF!	50:03.0	#VALUE!	#VALUE!													
+75	300	4	183	Cervelo P5	TT	32mm Carbon	0,034780093	#REF!	50:03.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Safety	Standard	32mm Carbon	0,034594907	#REF!	50:06.5	#VALUE!	#VALUE!													
+75	300	4	183	Diamondback Andean	TT	32mm Carbon	0,034837963	#REF!	50:07.5	#VALUE!	#VALUE!													
+75	300	4	183	Canyon Speedmax CF SLX Disc	TT	32mm Carbon	0,034814815	#REF!	50:09.0	#VALUE!	#VALUE!													
+75	300	4	183	Felt IA	TT	32mm Carbon	0,034849537	#REF!	50:09.5	#VALUE!	#VALUE!													
+75	300	4	183	Cervelo PX-Series	TT	32mm Carbon	0,034849537	#REF!	50:10.0	#VALUE!	#VALUE!													
+75	300	4	183	Cube Aerium	TT	32mm Carbon	0,034861111	#REF!	50:10.5	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Shiv	TT	32mm Carbon	0,034861111	#REF!	50:11.0	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Shiv Disc	TT	32mm Carbon	0,034872685	#REF!	50:11.0	#VALUE!	#VALUE!													
+75	300	4	183	BMC Timemachine01	TT	32mm Carbon	0,034884259	#REF!	50:12.0	#VALUE!	#VALUE!													
+75	300	4	183	Canyon Speedmax	TT	32mm Carbon	0,034872685	#REF!	50:12.5	#VALUE!	#VALUE!													
+75	300	4	183	Pinarello Bolide	TT	32mm Carbon	0,034965278	#REF!	50:20.0	#VALUE!	#VALUE!													
+75	300	4	183	Pinarello Bolide TT	TT	32mm Carbon	0,035	#REF!	50:21.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift TT	TT	32mm Carbon	0,03505787	#REF!	50:27.0	#VALUE!	#VALUE!													
+75	300	4	183	Ventum One	TT	32mm Carbon	0,035162037	#REF!	50:35.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Buffalo Fahrrad	Standard	32mm Carbon	0,035277778	#REF!	51:05.5	#VALUE!	#VALUE!													
+75	300	4	183	Canyon Grail	Gravel	Zwift Gravel	0,035706019	#REF!	51:24.0	#VALUE!	#VALUE!													
+75	300	4	183	Cervelo Aspero	Gravel	Zwift Gravel	0,035868056	#REF!	51:38.0	#VALUE!	#VALUE!													
+75	300	4	183	Canyon Inflite	Gravel	Zwift Gravel	0,036053241	#REF!	51:54.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Gravel	Gravel	Zwift Gravel	0,036064815	#REF!	51:54.5	#VALUE!	#VALUE!													
+75	300	4	183	Lauf True Grit	Gravel	Zwift Gravel	0,036087963	#REF!	52:22.0	#VALUE!	#VALUE!													
+75	300	4	183	Trek Supercaliber	MTB	Zwift Mountain	0,038483796	#REF!	55:23.0	#VALUE!	#VALUE!													
+75	300	4	183	Scott Spark RC	MTB	Zwift Mountain	0,038553241	#REF!	55:30.0	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Epic S-Works	MTB	Zwift Mountain	0,038611111	#REF!	55:35.0	#VALUE!	#VALUE!													
+75	300	4	183	Canyon Lux	MTB	Zwift Mountain	0,038680556	#REF!	55:40.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Mountain	MTB	Zwift Mountain	0,03880787	#REF!	55:51.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Big Wheel	Standard	Zwift Big Wheel	0,034768519	#REF!		#REF!	-0,034768519													
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								

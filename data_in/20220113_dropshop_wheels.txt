@@ -1,0 +1,42 @@
+make	model	drops	level	aero	weight
+Bontrager	Aeolus5	170,400	20	3	3
+CADEX	36	257,400	26	3	4
+CADEX	42	227,200	8	3	3
+CADEX	65	241,400	21	4	3
+Campagnolo	Bora Ultra 35	248,500	33	2	4
+Campagnolo	Bora Ultra 50	262,700	27	3	3
+DT Swiss	ARC 1100 DiCut 62	184,600	6	4	3
+DT Swiss	ARC 1100 DiCut Disc	1,579,800	42	4	1
+ENVE	SES 2.2	191,700	17	2	4
+ENVE	SES 3.4	191,700	4	3	4
+ENVE	SES 6.7	191,700	25	3	2
+ENVE	SES 7.8	205,900	39	4	2
+ENVE	SES 8.9	205,900	31	4	1
+FFWD	RYOT55	113,700	23	3	3
+Giant	SLR 0	191,800	22	3	4
+Lightweight	Meilenstein (1)	0	0	3	4
+Mavic	Comete Pro Carbon SL UST	142,000	23	3	1
+Mavic	Cosmic CXR60c	142,000	16	3	1
+Mavic	Cosmic Ultimate UST	142,000	9	3	1
+Novatec	R4	95,900	24	3	2
+Roval	Alpinist CLX	135,300	32	3	4
+Roval	CLX64	170,400	5	3	2
+Roval	Rapide CLX	195,300	14	3	3
+Shimano	C40	85,300	12	3	2
+Shimano	C50	88,700	28	3	1
+Shimano	C60	92,300	18	3	1
+Zipp	202	149,200	11	3	4
+Zipp	353 NSW	255,600	19	3	3
+Zipp	404	149,200	15	3	2
+Zipp	454	284,000	24	4	3
+Zipp	808	177,600	13	4	1
+Zipp	808/Super9	1,075,700	35	4	1
+Zipp	858	312,400	37	4	1
+ZIPP	858/Super9	1,508,800	45	4	1
+Zwift	32mm Carbon	0	0	2	2
+Zwift	50mm Carbon	120,700	7	3	2
+Zwift	Buffalo Fahrrad	3,200	40	1	1
+Zwift	Classic	35,600	2	1	1
+Zwift	Gravel (3)	0	0	3	1
+Zwift	Mountain (2)	0	0	1	1
+Zwift	Safety	710,000	44	2	2

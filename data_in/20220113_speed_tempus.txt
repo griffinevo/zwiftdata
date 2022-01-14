@@ -1,0 +1,331 @@
+Weight	Watts	w/kg	Height	Bike	Type	Wheels	Old Time	Gap	New Time	Gap	Old vs New	Notes												
+75	300	4	183	Canyon Speedmax CF SLX Disc	TT	32mm Carbon	0,034502315	#REF!	49:41.0	#VALUE!	#VALUE!													
+75	300	4	183	Felt IA	TT	32mm Carbon	0,034537037	#REF!	49:44.0	#VALUE!	#VALUE!													
+75	300	4	183	Cervelo PX-Series	TT	32mm Carbon	0,034537037	#REF!	49:44.5	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Shiv Disc	TT	32mm Carbon	0,034571759	#REF!	49:46.0	#VALUE!	#VALUE!													
+75	300	4	183	Cervelo P5	TT	32mm Carbon	0,034618056	#REF!	49:51.0	#VALUE!	#VALUE!													
+75	300	4	183	Ventum One	TT	32mm Carbon	0,034652778	#REF!	49:54.5	#VALUE!	#VALUE!													
+75	300	4	183	BMC Time Machine	TT	32mm Carbon	0,034710648	#REF!	49:58.0	#VALUE!	#VALUE!													
+75	300	4	183	Canyon Speedmax	TT	32mm Carbon	0,034710648	#REF!	49:58.0	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Shiv	TT	32mm Carbon	0,034710648	#REF!	49:58.0	#VALUE!	#VALUE!													
+75	300	4	183	Diamondback Andean	TT	32mm Carbon	0,034699074	#REF!	49:58.0	#VALUE!	#VALUE!													
+75	300	4	183	Scott Plasma	TT	32mm Carbon	0,034699074	#REF!	49:58.0	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Shiv S-Works	TT	32mm Carbon	0,034699074	#REF!	49:58.0	#VALUE!	#VALUE!													
+75	300	4	183	Cube Aerium	TT	32mm Carbon	0,034699074	#REF!	49:58.5	#VALUE!	#VALUE!													
+75	300	4	183	Pinarello Bolide	TT	32mm Carbon	0,034710648	#REF!	49:59.0	#VALUE!	#VALUE!													
+75	300	4	183	Pinarello Bolide TT	TT	32mm Carbon	0,034710648	#REF!	49:59.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift TT	TT	32mm Carbon	0,034907407	#REF!	50:16.0	#VALUE!	#VALUE!													
+75	300	4	183	Tron (Concept Z1)	Standard	Tron (Concept Z1)	0,035046296	#REF!	50:28.0	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Venge S-Works	Standard	32mm Carbon	0,035625	#REF!	51:18.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	DT Swiss ARC 62 Dicut Disc			50:25.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Zipp 858/Super9	0,035104167	#REF!	50:32.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Zipp 808/Super9	0,035115741	#REF!	50:34.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Zipp 858	0,035173611	#REF!	50:39.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	ENVE SES 7.8	0,035196759	#REF!	50:40.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	ENVE SES 8.9	0,035196759	#REF!	50:41.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Zipp 808	0,035219907	#REF!	50:43.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Zipp 454	0,035300926	#REF!	50:49.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Shimano C50			50:50.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	DT Swiss ARC 62	0,0353125	#REF!	50:51.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Zipp 404	0,035335648	#REF!	50:52.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	ENVE SES 6.7	0,035335648	#REF!	50:53.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Roval CLX64	0,035347222	#REF!	50:55.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Roval Rapide CLX	0,035347222	#REF!	50:55.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Zipp 353 NSW	0,03537037	#REF!	50:56.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Campagnolo Bora Ultra 50	0,035405093	#REF!	50:59.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	ENVE SES 3.4	0,035405093	#REF!	50:59.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Mavic Comete Pro Carbon SL UST	0,035416667	#REF!	50:59.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Giant SLR 0	0,035439815	#REF!	51:02.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Shimano C60	0,035439815	#REF!	51:02.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Mavic Cosmic CXR60c	0,035462963	#REF!	51:03.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Bontrager Aeolus5	0,035497685	#REF!	51:06.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Mavic Cosmic Ultimate UST	0,035497685	#REF!	51:06.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	CADEX 42			51:09.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Shimano C50	0,035844907	#REF!	51:11.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Lightweight Meilenstein	0,035555556	#REF!	51:11.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Roval Alpinist CLX	0,035532407	#REF!	51:12.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	50mm Carbon	0,035601852	#REF!	51:12.5	#VALUE!	#VALUE!													
+75	300	4	183	Cervelo S5	Standard	32mm Carbon	0,035636574	#REF!	51:19.0	#VALUE!	#VALUE!													
+75	300	4	183	Felt AR	Standard	32mm Carbon	0,035636574	#REF!	51:19.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Shimano C40	0,035578704	#REF!	51:13.0	#VALUE!	#VALUE!													
+75	300	4	183	Trek Madone	Standard	32mm Carbon	0,035648148	#REF!	51:19.0	#VALUE!	#VALUE!													
+75	300	4	183	Uranium Nuclear	Standard	32mm Carbon	0,035775463	#REF!	51:19.0	#VALUE!	#VALUE!													
+75	300	4	183	Cervelo S5 2020	Standard	32mm Carbon			51:20.0	#VALUE!	#VALUE!													
+75	300	4	183	Cannondale SystemSix	Standard	32mm Carbon	0,035648148	#REF!	51:20.0	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Venge	Standard	32mm Carbon	0,035659722	#REF!	51:20.0	#VALUE!	#VALUE!													
+75	300	4	183	Canyon Aeroad 2021	Standard	32mm Carbon	0,035659722	#REF!	51:21.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	CADEX 36	0,035844907	#REF!	51:18.5	#VALUE!	#VALUE!													
+75	300	4	183	Canyon Aeroad	Standard	32mm Carbon	0,035671296	#REF!	51:21.5	#VALUE!	#VALUE!													
+75	300	4	183	Giant Propel Advanced SL Disc	Standard	32mm Carbon	0,03568287	#REF!	51:21.5	#VALUE!	#VALUE!													
+75	300	4	183	Chapter2 TOA	Standard	32mm Carbon	0,035775463	#REF!	51:22.0	#VALUE!	#VALUE!													
+75	300	4	183	Focus Izalco Max 2020	Standard	32mm Carbon	0,035659722	#REF!	51:22.5	#VALUE!	#VALUE!													
+75	300	4	183	Scott Addict RC	Standard	32mm Carbon			51:22.5	#VALUE!	#VALUE!													
+75	300	4	183	Pinarello Dogma F	Standard	32mm Carbon	0,035648148	#REF!	51:23.0	#VALUE!	#VALUE!													
+75	300	4	183	Pinarello Dogma F12	Standard	32mm Carbon	0,03568287	#REF!	51:23.0	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Allez Sprint	Standard	32mm Carbon	0,035694444	#REF!	51:23.0	#VALUE!	#VALUE!													
+75	300	4	183	Cervelo S3D	Standard	32mm Carbon	0,035694444	#REF!	51:23.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Zipp 202	0,035648148	#REF!	51:20.0	#VALUE!	#VALUE!													
+75	300	4	183	Ridley Noah Fast Disc	Standard	32mm Carbon	0,035706019	#REF!	51:23.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	ENVE SES 2.2	0,035706019	#REF!	51:25.0	#VALUE!	#VALUE!													
+75	300	4	183	Factor One	Standard	32mm Carbon	0,035694444	#REF!	51:24.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Campagnolo Bora Ultra 35	0,035706019	#REF!	51:25.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	32mm Carbon	0,035717593	#REF!	51:25.0	#VALUE!	#VALUE!													
+75	300	4	183	Parlee RZ7	Standard	32mm Carbon	0,035729167	#REF!	51:26.0	#VALUE!	#VALUE!													
+75	300	4	183	Pinarello Dogma F10	Standard	32mm Carbon	0,035717593	#REF!	51:26.0	#VALUE!	#VALUE!													
+75	300	4	183	Ribble Endurance	Standard	32mm Carbon	0,035729167	#REF!	51:27.0	#VALUE!	#VALUE!													
+75	300	4	183	Chapter2 Rere	Standard	32mm Carbon	0,035740741	#REF!	51:28.0	#VALUE!	#VALUE!													
+75	300	4	183	Scott Foil	Standard	32mm Carbon	0,035740741	#REF!	51:28.0	#VALUE!	#VALUE!													
+75	300	4	183	Cannondale SuperSix EVO	Standard	32mm Carbon	0,035763889	#REF!	51:30.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Zwift Safety	0,035706019	#REF!	51:25.5	#VALUE!	#VALUE!													
+75	300	4	183	Giant TCR Advanced SL Disc	Standard	32mm Carbon	0,035775463	#REF!	51:31.0	#VALUE!	#VALUE!													
+75	300	4	183	Pinarello F8	Standard	32mm Carbon	0,035787037	#REF!	51:31.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Zwift Buffalo Farhhad	0,035775463	#REF!	51:30.0	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Tarmac SL7	Standard	32mm Carbon	0,035763889	#REF!	51:31.5	#VALUE!	#VALUE!													
+75	300	4	183	Giant TCR Advanced SL	Standard	32mm Carbon	0,035798611	#REF!	51:31.5	#VALUE!	#VALUE!													
+75	300	4	183	Parlee ESX	Standard	32mm Carbon	0,035775463	#REF!	51:31.5	#VALUE!	#VALUE!													
+75	300	4	183	Pinarello Dogma 65.1	Standard	32mm Carbon	0,035787037	#REF!	51:31.5	#VALUE!	#VALUE!													
+75	300	4	183	Canyon Ultimate CFR	Standard	32mm Carbon			51:32.0	#VALUE!	#VALUE!													
+75	300	4	183	Liv Langma SL Advanced Disc	Standard	32mm Carbon	0,03880787	#REF!	51:32.0	#VALUE!	#VALUE!													
+75	300	4	183	Bridgestone SR9s	Standard	32mm Carbon	0,035798611	#REF!	51:33.0	#VALUE!	#VALUE!													
+75	300	4	183	Cannondale EVO	Standard	32mm Carbon	0,035798611	#REF!	51:33.0	#VALUE!	#VALUE!													
+75	300	4	183	Canyon Ultimate	Standard	32mm Carbon	0,035810185	#REF!	51:33.0	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Aethos	Standard	32mm Carbon	0,035798611	#REF!	51:33.0	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Roubaix S-Works	Standard	32mm Carbon	0,035810185	#REF!	51:33.0	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Tarmac Pro	Standard	32mm Carbon	0,035798611	#REF!	51:33.0	#VALUE!	#VALUE!													
+75	300	4	183	BMC SLR01	Standard	32mm Carbon	0,035810185	#REF!	51:33.5	#VALUE!	#VALUE!													
+75	300	4	183	Cannondale Synapse	Standard	32mm Carbon	0,035821759	#REF!	51:33.5	#VALUE!	#VALUE!													
+75	300	4	183	Cervelo R5	Standard	32mm Carbon	0,035798611	#REF!	51:33.5	#VALUE!	#VALUE!													
+75	300	4	183	Chapter2 Tere	Standard	32mm Carbon	0,035798611	#REF!	51:33.5	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Amira	Standard	32mm Carbon	0,035810185	#REF!	51:33.5	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Amira S-Works	Standard	32mm Carbon	0,035798611	#REF!	51:33.5	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Ruby S-Works	Standard	32mm Carbon	0,035810185	#REF!	51:33.5	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Tarmac	Standard	32mm Carbon	0,035798611	#REF!	51:33.5	#VALUE!	#VALUE!													
+75	300	4	183	Trek Emonda	Standard	32mm Carbon	0,035798611	#REF!	51:33.5	#VALUE!	#VALUE!													
+75	300	4	183	Colnago V3RS	Standard	32mm Carbon	0,035821759	#REF!	51:34.0	#VALUE!	#VALUE!													
+75	300	4	183	Cube Litening	Standard	32mm Carbon	0,035810185	#REF!	51:34.0	#VALUE!	#VALUE!													
+75	300	4	183	Liv Langma Advanced SL	Standard	32mm Carbon	0,035810185	#REF!	51:34.0	#VALUE!	#VALUE!													
+75	300	4	183	Ridley Helium	Standard	32mm Carbon	0,035821759	#REF!	51:34.0	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Roubaix	Standard	32mm Carbon	0,035810185	#REF!	51:34.0	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Ruby	Standard	32mm Carbon	0,035810185	#REF!	51:34.0	#VALUE!	#VALUE!													
+75	300	4	183	Trek Emonda SL	Standard	32mm Carbon	0,035798611	#REF!	51:34.0	#VALUE!	#VALUE!													
+75	300	4	183	Cube Litening C:68X	Standard	32mm Carbon	0,035775463	#REF!	51:34.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	Zwift Classic	0,035763889	#REF!	51:31.0	#VALUE!	#VALUE!													
+75	300	4	183	BMC Roadmachine	Standard	32mm Carbon			51:34.5	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Allez	Standard	32mm Carbon	0,035821759	#REF!	51:34.5	#VALUE!	#VALUE!													
+75	300	4	183	Van Rysel EDR CF	Standard	32mm Carbon			51:34.5	#VALUE!	#VALUE!													
+75	300	4	183	Cannondale CAAD12	Standard	32mm Carbon	0,035821759	#REF!	51:35.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Carbon	Standard	32mm Carbon	0,035833333	#REF!	51:36.0	#VALUE!	#VALUE!													
+75	300	4	183	Moots Vamoots	Standard	32mm Carbon	0,03880787	#REF!	51:36.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Safety	Standard	32mm Carbon	0,035833333	#REF!	51:37.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Steel	Standard	32mm Carbon	0,03587963	#REF!	51:39.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Buffalo Fahrrad	Standard	32mm Carbon	0,035775463	#REF!	51:46.0	#VALUE!	#VALUE!													
+75	300	4	183	Cervelo Aspero	Gravel	Zwift Gravel	0,037349537	#REF!	53:47.0	#VALUE!	#VALUE!													
+75	300	4	183	Canyon Grail	Gravel	Zwift Gravel	0,037372685	#REF!	53:49.0	#VALUE!	#VALUE!													
+75	300	4	183	Canyon Inflite	Gravel	Zwift Gravel	0,037418981	#REF!	53:53.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Gravel	Gravel	Zwift Gravel	0,037430556	#REF!	53:54.0	#VALUE!	#VALUE!													
+75	300	4	183	Lauf True Grit	Gravel	Zwift Gravel	0,037418981	#REF!	53:57.0	#VALUE!	#VALUE!													
+75	300	4	183	Trek Super Caliber	MTB	Zwift Mountain	0,038668981	#REF!	55:41.0	#VALUE!	#VALUE!													
+75	300	4	183	Scott Spark RC	MTB	Zwift Mountain	0,03869213	#REF!	55:42.0	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Aero	Standard	FFWD RYOT55	0,035775463	#REF!	50:58.5	#VALUE!	#VALUE!													
+75	300	4	183	Specialized Epic S-Works	MTB	Zwift Mountain	0,038703704	#REF!	55:42.5	#VALUE!	#VALUE!													
+75	300	4	183	Canyon Lux	MTB	Zwift Mountain	0,038715278	#REF!	55:43.5	#VALUE!	#VALUE!													
+75	300	4	183	Zwift Mountain	MTB	Zwift Mountain	0,03880787	#REF!	55:52.5	#VALUE!	#VALUE!													
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+																								
+75	300	4	183	Zwift Aero	Standard	Novatec R4	0,035775463	#REF!	51:21.5	#VALUE!	#VALUE!													
